@@ -26,15 +26,6 @@
 
 ---
 
-### 📊 Minhas Estatísticas
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Guilherme663&show_icons=true&theme=dracula&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme663&layout=compact&theme=dracula&hide_border=true" alt="Linguagens mais usadas" />
-</div>
-
----
-
 ### 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-m-923912349/)
